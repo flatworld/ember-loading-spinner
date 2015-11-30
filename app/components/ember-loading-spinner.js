@@ -1,0 +1,1 @@
+export { default } from 'ember-loading-spinner/components/ember-loading-spinner';
