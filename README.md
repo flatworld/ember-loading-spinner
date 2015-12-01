@@ -38,6 +38,11 @@ In your Handlebars templates:
 
 ## Running Tests
 
+There are several ways to run the test suite, with the browser of your choice as well as headless.
+
+![QUnit Tests](/../screenshots/screenshots/ember-loading-spinner-tests.png?raw=true "QUnit Tests")
+
+* `ember server` and visit http://localhost:4200/tests
 * `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
 * `ember test`
 * `ember test --server`
