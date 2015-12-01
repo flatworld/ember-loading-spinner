@@ -1,6 +1,6 @@
 # Ember-loading-spinner
 
-This README outlines the details of collaborating on this Ember addon.
+![Demo](/../screenshots/screenshots/ember-loading-spinner-example.gif?raw=true "Demo")
 
 ## Install Addon
 
@@ -33,6 +33,8 @@ In your Handlebars templates:
 
 * `ember server`
 * Visit your app at http://localhost:4200.
+
+![Demo App](/../screenshots/screenshots/ember-loading-spinner-demo-app.png?raw=true "Demo App")
 
 ## Running Tests
 
