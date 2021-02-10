@@ -9,12 +9,6 @@ In your Ember application's directory:
 $ ember install ember-loading-spinner
 ```
 
-If you have manually installed or updated the addon via NPM then you should also
-run:
-```bash
-$ ember generate ember-loading-spinner
-```
-
 ## Basic usage
 
 In your Handlebars templates:
@@ -27,7 +21,6 @@ In your Handlebars templates:
 
 * `git clone` this repository
 * `npm install`
-* `bower install`
 
 ## Running Demo App
 

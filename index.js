@@ -7,7 +7,7 @@ module.exports = {
   included: function(app) {
     this._super.included(app);
 
-    app.import(app.bowerDirectory + '/spin.js/spin.js');
+    app.import('node_modules/spin.js/spin.js');
   }
 };
 
